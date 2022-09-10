@@ -9,11 +9,11 @@
   - [Prosseguimento](#id03.2)
 - [Screenshots](#id04)
 - [Links](#id05)
-- [Tecnologias utilizadas](#id06)
+- [Tecnologias estudadas](#id06)
 - [Pré-requisitos](#id07)
 - [Procedimentos de instalação](#id08)
 - [Agradecimentos](#id09)
-- [Autora](#id010)
+- [Raíza Cirne](#id010)
 
 # Bem-vindo! 👋 <a name="id01"></a>
 
@@ -48,7 +48,7 @@ Previsão de data final do Módulo 1: 08/10/2022
 <br />
 
 - Ser uma Desenvolvedora Front-end com uma boa base em HTML5 e CSS3. 
-- Criar mais projetos para consolidar conhecimento nas linguagens de marcação 
+- Criar mais projetos para consolidar conhecimento nas linguagens de marcação.
 - Iniciar no JavaScript. 
 
 <br />
@@ -57,7 +57,7 @@ Previsão de data final do Módulo 1: 08/10/2022
 
 <br />
 
-(Em andamento X) dias para concluir o curso
+X dias para concluir o curso
 
 ## :trophy: Aprendizado <a name="id03.1"></a>
 
@@ -67,7 +67,7 @@ Previsão de data final do Módulo 1: 08/10/2022
   
 - Capítulo 2:
   - Como a Internet funciona?
-  -  O que é domínio e hospedagem?
+  - O que é domínio e hospedagem?
    
 - Capítulo 3:
   - A diferença entre HTML, CSS e JavaScript
@@ -76,39 +76,54 @@ Previsão de data final do Módulo 1: 08/10/2022
 - Capítulo 4:
   - Instalando todas as ferramentas
   - Seu primeiro código HTML
-  - Capítulo 5 Aula 1 – Parágrafos e Quebras
-- Capítulo 5 Aula 2 – Símbolos e Emoji no seu site
-- Capítulo 6 Aula 1 – Você tem o direito de usar qualquer imagem no seu site?
-- Capítulo 6 Aula 2 – Quais são os formatos para imagens na Web?
-- Capítulo 6 Aula 3 – O tamanho das imagens importa para um site?
- - Capítulo 6 Aula 4 – A tag img em HTML5
-- Capítulo 6 Aula 5 – Como mudar o favicon de um site
-- Capítulo 7 Aula 1 – Hierarquia de Títulos
-- Capítulo 8 Aula 1 – Semântica na HTML5 é importante
-- Capítulo 8 Aula 2 – Negrito e Itálico do jeito certo
-- Capítulo 8 Aula 3 – Formatações adicionais em HTML
-- Capítulo 8 Aula 4 – Citações e Códigos
-- Capítulo 9 Aula 1 – Listas OL e UL
-- Capítulo 9 Aula 2 – Listas mistas e de definição
-- Capítulo 10 Aula 1 – Links e Âncoras em HTML5
-- Capítulo 10 Aula 2 – Links Internos
-- Capítulo 10 Aula 3 – Links para download
-- Capítulo 10 Aula 4 – Desafios propostos
-- Capítulo 11 Aula 1 – Imagens Dinâmicas
-- Capítulo 11 Aula 2 – Imagens que se adaptam sozinhas
-- Capítulo 11 Aula 3 – Colocando áudio no seu site
-- Capítulo 11 Aula 4 – Formatos de vídeo para seu site
-- Capítulo 11 Aula 5 – Vídeos em hospedagem própria
-- Capítulo 11 Aula 6 – Incorporação de vídeos externos
-- Capítulo 11 Aula 7 – Desafio: um site com vídeos
-- Capítulo 12 Aula 1 – Estilos CSS inline
-- Capítulo 12 Aula 2 – Estilos CSS internos
-- Capítulo 12 Aula 3 – Estilos CSS externos
-- Fim do Módulo 1
+  
+- Capítulo 5:
+  - Parágrafos e Quebras
+  – Símbolos e Emoji no seu site
+  
+- Capítulo 6:
+  - Você tem o direito de usar qualquer imagem no seu site?
+  - Quais são os formatos para imagens na Web?
+  - O tamanho das imagens importa para um site?
+  - A tag img em HTML5
+  -  Como mudar o favicon de um site
+  
+- Capítulo 7:
+  - Hierarquia de Títulos
+  
+- Capítulo 8
+  -  Semântica na HTML5 é importante
+  -  Negrito e Itálico do jeito certo
+  -  Formatações adicionais em HTML
+  -  Citações e Códigos
+- 
+- Capítulo 9:
+  - Listas OL e UL
+  - Listas mistas e de definição
+
+- Capítulo 10:
+  - Links e Âncoras em HTML5
+  - Links Internos
+  - Links para download
+  - Desafios propostos
+
+- Capítulo 11:
+  - Imagens Dinâmicas
+  - Imagens que se adaptam sozinhas
+  - Colocando áudio no seu site
+  - Formatos de vídeo para seu site
+  - Vídeos em hospedagem própria
+  - Incorporação de vídeos externos
+  - Desafio: um site com vídeos
+
+- Capítulo 12:
+  - Estilos CSS inline
+  - Estilos CSS internos
+  - Estilos CSS externos
 
 ## :trophy: Prosseguimento <a name="id03.2"></a>
 
-Realização de mais projetos nas mesmas linguagens utilizadas neste site para consolidar de forma mais potente os meus conhecimentos e ir para um nível intermediário. 
+- Cursos em JavaScript
 
 <br />
 
@@ -118,7 +133,7 @@ Realização de mais projetos nas mesmas linguagens utilizadas neste site para c
 
 ## :desktop_computer: Desktop design
 
-![Design preview principal](./design/site-ada-design.png)
+![Design preview principal](Inserir projeto)
 
 <br />
 
@@ -126,17 +141,16 @@ Realização de mais projetos nas mesmas linguagens utilizadas neste site para c
 
 <br />
 
-- Clique no link para acessar a página: https://clinquant-taffy-d227ca.netlify.app
+- Clique no link para acessar a página do curso: https://www.cursoemvideo.com/curso/html5-css3-modulo1/
 
 <br />
 
-# 🛠 Tecnologias utilizadas <a name="id06"></a>
+# 🛠 Tecnologias estudadas <a name="id06"></a>
 
 <br />
 
 - HTML5
 - CSS3
-- JS 
 
 <br />
 
@@ -172,19 +186,17 @@ Abrir pasta no editor de código.
 
 <br />
 
-Agradeço a PrograMaria, por ter sido o meu primeiro contato com a aréa de desenvolvimento e por cumprir com seu objetivo de empoderar tantas mulheres por meio da tecnologia, nos dando motivação e confiança para explorar um campo em que a predominancia masculina ainda é presente. No entanto, fica minha imensa gratidão pela oportunidades que vocês nos tem dado. 
-
-Aos mentores Pedro Marins e Henrique de Andrade, aos monitores, e claro, todos da Comunidade CoDe, um time que anda unido com o mesmo propósito, proporcionando tanta troca de conhecimento e aprendizado contínuo. Em especial ao grupo de mulheres desse time que tem se unido e se fortalecido juntas. 
+Agradeço ao professor Gustavo Guanabara por disponibilizar um conteúdo fantástico e por passar o seu conhecimento. 
 
 <br />
 
-# :sunglasses: Autora <a name="id010"></a>
+# :sunglasses: Raíza Cirne <a name="id010"></a>
 
 <br />
 
-- Personal Page - [Raíza Cirne Braz](https://clinquant-taffy-d227ca.netlify.app)
+- Personal Page - [Raíza Cirne Braz](Inserir projeto do curso)
 - Frontend Mentor - [@RaizaCirne](https://www.frontendmentor.io/profile/RaizaCirne)
 - GitHub - [RaizaCirne](https://github.com/RaizaCirne)
 - LinkedIn - [Raíza Cirne Braz](https://www.linkedin.com/in/ra%C3%ADzacirne/)
 
-**HTML - CSS - JS** 🚀
+**HTML - CSS** 🚀
