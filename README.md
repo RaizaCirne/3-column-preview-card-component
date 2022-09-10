@@ -24,7 +24,7 @@ Essa é a criação de um repositório de estudos do Curso em Vídeo sobre HTML5
 
 # 🚀 Proposta <a name="id02"></a>
 
-Criar bases sólidas nas linguagens de marcação HTML5 e CSS3 e melhorar habilidades adquiridas nos primeiros cursos da minha formação (PrograMaria e Alura). 
+Criar bases sólidas nas linguagens de marcação HTML5 e CSS3 e melhorar habilidades adquiridas nos dois primeiros cursos da minha formação (PrograMaria e Alura). 
 
 Escolha de um curso para aprender novos conceitos. 
 
@@ -41,11 +41,9 @@ Previsão de data final do Módulo 1: 08/10/2022
 <br />
 
 - Módulo 1: Composto por 12 capítulos e 40 aulas.
-
-
-- Conteúdo para o Curso de HTML5 e CSS3
-- Capítulo 1 Aula 0 – O que vamos aprender no módulo 01?
-- Capítulo 1 Aula 1 – Precisamos fazer um acordo
+  - Conteúdo para o Curso de HTML5 e CSS3
+    - Capítulo 1 Aula 0 – O que vamos aprender no módulo 01?
+    - Capítulo 1 Aula 1 – Precisamos fazer um acordo
 - Capítulo 1 Aula 2 – Será que este curso é para mim?
 - Capítulo 1 Aula 3 – Melhores livros para aprender HTML5 e CSS3
 - Capítulo 1 Aula 4 – Como a Internet chega na minha casa?
