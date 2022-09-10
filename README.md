@@ -96,7 +96,7 @@ X dias para concluir o curso
   -  Negrito e Itálico do jeito certo
   -  Formatações adicionais em HTML
   -  Citações e Códigos
-- 
+  
 - Capítulo 9:
   - Listas OL e UL
   - Listas mistas e de definição
@@ -123,7 +123,7 @@ X dias para concluir o curso
 
 ## :trophy: Prosseguimento <a name="id03.2"></a>
 
-- Cursos em JavaScript
+- Iniciar cursos na linguagem de programação JavaScript.
 
 <br />
 
@@ -170,7 +170,7 @@ X dias para concluir o curso
 Clone este repositório usando o comando:
 
 ```bash
-git clone https://github.com/RaizaCirne/site-ada-lovelace.git
+git clone https://github.com/RaizaCirne/estudos-curso-em-video.git
 ```
 
 
@@ -186,7 +186,7 @@ Abrir pasta no editor de código.
 
 <br />
 
-Agradeço ao professor Gustavo Guanabara por disponibilizar um conteúdo fantástico e por passar o seu conhecimento. 
+Agradeço ao professor Gustavo Guanabara por disponibilizar um material fantástico, passar seus conhecimentos de maneira didática possibilitando acesso a um conteúdo de qualidade para tantas pessoas. 
 
 <br />
 
