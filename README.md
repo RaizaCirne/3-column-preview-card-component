@@ -1,11 +1,8 @@
-# estudos-curso-em-video
-Estudos do Curso em Vídeo para criar bases sólidas nas linguagens de marcação HTML5 e CSS3
-
 # 📋 Indíce
 
 - [Bem-vindo](#id01)
 - [Proposta](#id02)
-  - [O desafio](#id02.1)
+  - [O curso](#id02.1)
   - [Objetivo](#id02.2)
 - [Meu processo](#id03)
   - [Construção do site](#id03.1)
@@ -21,43 +18,72 @@ Estudos do Curso em Vídeo para criar bases sólidas nas linguagens de marcaçã
 
 # Bem-vindo! 👋 <a name="id01"></a>
 
-**Site Ada Lovelace.**
+**Estudos em HTML5 e CSS3.**
 
-Essa foi a criação de um site sobre a Ada Lovelace (a primeira programadora do mundo) e sobre outras mulheres que fizeram história na tecnologia.
+Essa é a criação de um repositório de estudos do Curso em Vídeo sobre HTML5 e CSS3 ministrado pelo professor Gustavo Guanabara.
 
 # 🚀 Proposta <a name="id02"></a>
 
-Desafio da mentoria CSV para prática de projetos com o objetivo de adquirir habilidades de codificação.
+Criar bases sólidas nas linguagens de marcação HTML5 e CSS3 e melhorar habilidades adquiridas nos primeiros cursos da minha formação (PrograMaria e Alura). 
 
-Escolha de um projeto com o prazo de entrega.
-
-<br />
-
-Data inicial: 25/08/2022
-
-Data final: 01/09/2022
+Escolha de um curso para aprender novos conceitos. 
 
 <br />
 
-## :trophy: O desafio <a name="id02.1"></a>
+Data de ínicio do curso: 02/09/2022
+
+Previsão de data final do Módulo 1: 08/10/2022
 
 <br />
 
-Os usuários devem ser capazes de: 
+## :trophy: O curso <a name="id02.1"></a>
 
-- Clicar nos links de navegação principal denominados "Infância, Juventude e Vida adulta", e serem direcionados para as respectivas sessões no site.  
+<br />
 
-- Clicar nos links relacionados ao título "Conheça outras mulheres que fizeram história na tecnologia:" e serem direcionadas para a página "wikipedia" que irá abrir em uma nova janela ou guia.  
+- Módulo 1: Composto por 12 capítulos e 40 aulas.
 
-- Preencher os dados com "nome, e-mail e telefone".
 
-- Receber mensagem de erro ao não informar dados válidos no e-mail.
-
-- Será possível preencher o campo de telefone apenas ao digitar números.
-
-- Se todos os dados forem preenchidos corretamente, deverá abrir uma caixa de diálogo na tela com um alerta seguido da mensagem "Prontinho! você receberá as novidades por email."
-
-- Se algum dado não for preenchido, deverá abrir uma caixa de diálogo na tela com um alerta seguido da mensagem "Por favor, preencha os campos nome, email e telefone!"
+- Conteúdo para o Curso de HTML5 e CSS3
+- Capítulo 1 Aula 0 – O que vamos aprender no módulo 01?
+- Capítulo 1 Aula 1 – Precisamos fazer um acordo
+- Capítulo 1 Aula 2 – Será que este curso é para mim?
+- Capítulo 1 Aula 3 – Melhores livros para aprender HTML5 e CSS3
+- Capítulo 1 Aula 4 – Como a Internet chega na minha casa?
+- Capítulo 2 Aula 1 – Como a Internet funciona?
+- Capítulo 2 Aula 2 – O que é domínio e hospedagem?
+Capítulo 3 Aula 1 – A diferença entre HTML, CSS e JavaScript
+Capítulo 3 Aula 2 – Front-end, Back-end e Full stack
+Capítulo 4 Aula 1 – Instalando todas as ferramentas
+Capítulo 4 Aula 2 – Seu primeiro código HTML
+Capítulo 5 Aula 1 – Parágrafos e Quebras
+Capítulo 5 Aula 2 – Símbolos e Emoji no seu site
+Capítulo 6 Aula 1 – Você tem o direito de usar qualquer imagem no seu site?
+Capítulo 6 Aula 2 – Quais são os formatos para imagens na Web?
+Capítulo 6 Aula 3 – O tamanho das imagens importa para um site?
+Capítulo 6 Aula 4 – A tag img em HTML5
+Capítulo 6 Aula 5 – Como mudar o favicon de um site
+Capítulo 7 Aula 1 – Hierarquia de Títulos
+Capítulo 8 Aula 1 – Semântica na HTML5 é importante
+Capítulo 8 Aula 2 – Negrito e Itálico do jeito certo
+Capítulo 8 Aula 3 – Formatações adicionais em HTML
+Capítulo 8 Aula 4 – Citações e Códigos
+Capítulo 9 Aula 1 – Listas OL e UL
+Capítulo 9 Aula 2 – Listas mistas e de definição
+Capítulo 10 Aula 1 – Links e Âncoras em HTML5
+Capítulo 10 Aula 2 – Links Internos
+Capítulo 10 Aula 3 – Links para download
+Capítulo 10 Aula 4 – Desafios propostos
+Capítulo 11 Aula 1 – Imagens Dinâmicas
+Capítulo 11 Aula 2 – Imagens que se adaptam sozinhas
+Capítulo 11 Aula 3 – Colocando áudio no seu site
+Capítulo 11 Aula 4 – Formatos de vídeo para seu site
+Capítulo 11 Aula 5 – Vídeos em hospedagem própria
+Capítulo 11 Aula 6 – Incorporação de vídeos externos
+Capítulo 11 Aula 7 – Desafio: um site com vídeos
+Capítulo 12 Aula 1 – Estilos CSS inline
+Capítulo 12 Aula 2 – Estilos CSS internos
+Capítulo 12 Aula 3 – Estilos CSS externos
+Fim do Módulo 1
 
 <br />
 
