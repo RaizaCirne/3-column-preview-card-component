@@ -4,10 +4,16 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
     <title>Imagem flexível</title>
 </head>
 <body>
-    
+    <h1>Imagem Flexível</h1>
+    <p>Você está vendo a imagem completa? Experimente ampliar o tamanho da sua janela para aproveitar a melhor experiência &#x1F92F;</p>
+    <picture>
+        <source media="(max-width: 750px)" srcset="img/paisagem-p.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="img/paisagem-m.png" type="image/png">
+        <img src="img/paisagem-g.png" alt="Mulher de braços abertos nas montanhas">
+    </picture>
 </body>
 </html>
