@@ -19,7 +19,7 @@
 
 **Estudos em HTML5 e CSS3.**
 
-Essa é a criação de um repositório de estudos do Curso em Vídeo sobre HTML5 e CSS3 ministrado pelo professor Gustavo Guanabara.
+Essa é a criação de um repositório de estudos do módulo 1 do Curso em Vídeo sobre HTML5 e CSS3 ministrado pelo professor Gustavo Guanabara.
 
 # 🚀 Proposta <a name="id02"></a>
 
