@@ -7,13 +7,12 @@
 - [Meu processo](#id03)
   - [Aprendizado](#id03.1)
   - [Prosseguimento](#id03.2)
-- [Screenshots](#id04)
-- [Links](#id05)
-- [Tecnologias estudadas](#id06)
-- [Pré-requisitos](#id07)
-- [Procedimentos de instalação](#id08)
-- [Agradecimentos](#id09)
-- [Raíza Cirne](#id010)
+- [Links](#id04)
+- [Tecnologias estudadas](#id05)
+- [Pré-requisitos](#id06)
+- [Procedimentos de instalação](#id07)
+- [Agradecimentos](#id08)
+- [Raíza Cirne](#id09)
 
 # Bem-vindo! 👋 <a name="id01"></a>
 
@@ -25,13 +24,13 @@ Essa é a criação de um repositório de estudos do módulo 1 do Curso em Víde
 
 Criar bases sólidas nas linguagens de marcação HTML5 e CSS3 e melhorar habilidades adquiridas nos dois primeiros cursos da minha formação (PrograMaria e Alura). 
 
-Escolha de um curso para aprender novos conceitos. 
+Escolha de um curso para aprender conceitos. 
 
 <br />
 
 Data de ínicio do curso: 02/09/2022
 
-Finalização do Módulo 1: 08/10/2022
+Finalização do Módulo 1: 06/10/2022
 
 <br />
 
@@ -40,6 +39,7 @@ Finalização do Módulo 1: 08/10/2022
 <br />
 
 - Módulo 1: Composto por 12 capítulos e 40 aulas.
+- [40 horas]
 
 <br />
 
@@ -57,7 +57,7 @@ Finalização do Módulo 1: 08/10/2022
 
 <br />
 
-X dias para concluir o curso
+36 dias para concluir o curso
 
 ## :trophy: Aprendizado <a name="id03.1"></a>
 
@@ -123,21 +123,11 @@ X dias para concluir o curso
 
 ## :trophy: Prosseguimento <a name="id03.2"></a>
 
-- Iniciar cursos na linguagem de programação JavaScript.
+- Iniciar módulo 2 do Curso de HTML5 e CSS3 do Curso em Vídeo.
 
 <br />
 
-# :camera_flash: Screenshots <a name="id04"></a>
-
-<br />
-
-## :desktop_computer: Desktop design
-
-![Design preview principal](Inserir projeto)
-
-<br />
-
-# :heavy_check_mark: Links <a name="id05"></a>
+# :heavy_check_mark: Links <a name="id04"></a>
 
 <br />
 
@@ -145,7 +135,7 @@ X dias para concluir o curso
 
 <br />
 
-# 🛠 Tecnologias estudadas <a name="id06"></a>
+# 🛠 Tecnologias estudadas <a name="id05"></a>
 
 <br />
 
@@ -154,7 +144,7 @@ X dias para concluir o curso
 
 <br />
 
-# ☑️ Pré-requisitos <a name="id07"></a>
+# ☑️ Pré-requisitos <a name="id06"></a>
 
 <br />
 
@@ -163,14 +153,14 @@ X dias para concluir o curso
 
 <br />
 
-# 📝 Procedimentos de instalação <a name="id08"></a>
+# 📝 Procedimentos de instalação <a name="id07"></a>
 
 <br />
 
 Clone este repositório usando o comando:
 
 ```bash
-git clone https://github.com/RaizaCirne/estudos-curso-em-video.git
+git clone https://github.com/RaizaCirne/html5-css3-modulo1-guanabara.git
 ```
 
 
@@ -182,7 +172,7 @@ Abrir pasta no editor de código.
 
 <br />
 
-# :sunglasses: Agradecimentos <a name="id09"></a>
+# :sunglasses: Agradecimentos <a name="id08"></a>
 
 <br />
 
@@ -190,13 +180,12 @@ Agradeço ao professor Gustavo Guanabara por disponibilizar um material fantást
 
 <br />
 
-# :sunglasses: Raíza Cirne <a name="id010"></a>
+# :sunglasses: Raíza Cirne <a name="id09"></a>
 
 <br />
 
-- Personal Page - [Raíza Cirne Braz](Inserir projeto do curso)
 - Frontend Mentor - [@RaizaCirne](https://www.frontendmentor.io/profile/RaizaCirne)
 - GitHub - [RaizaCirne](https://github.com/RaizaCirne)
 - LinkedIn - [Raíza Cirne Braz](https://www.linkedin.com/in/ra%C3%ADzacirne/)
 
-**HTML - CSS** 🚀
+**HTML5 - CSS3** 🚀
