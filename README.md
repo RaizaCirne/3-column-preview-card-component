@@ -12,7 +12,7 @@
 - [Pré-requisitos](#id06)
 - [Procedimentos de instalação](#id07)
 - [Agradecimentos](#id08)
-- [Raíza Cirne](#id09)
+- [Minhas Redes](#id09)
 
 # Bem-vindo! 👋 <a name="id01"></a>
 
@@ -180,7 +180,7 @@ Agradeço ao professor Gustavo Guanabara por disponibilizar um material fantást
 
 <br />
 
-# :sunglasses: Raíza Cirne <a name="id09"></a>
+# :sunglasses: Minhas Redes <a name="id09"></a>
 
 <br />
 
