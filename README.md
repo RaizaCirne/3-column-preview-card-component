@@ -31,7 +31,7 @@ Escolha de um curso para aprender novos conceitos.
 
 Data de ínicio do curso: 02/09/2022
 
-Previsão de data final do Módulo 1: 08/10/2022
+Finalização do Módulo 1: 08/10/2022
 
 <br />
 
