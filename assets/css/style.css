@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend+Deca&family=Outfit:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&display=swap");
+
+body {
+  max-width: 1440px;
+  font-family: "Lexend Deca", sans-serif;
+  background: hsl(0, 0%, 95%);
+  color: hsla(0, 0%, 100%, 0.75);
+  display: grid;
+  grid-template-columns: 250px 250px 250px;
+  place-content: center;
+  min-height: 100vh;
+}
+
+.item {
+  padding: 15px;
+  display: grid;
+  gap: 30px;
+}
+.sedans {
+  background: hsl(31, 77%, 52%);
+}
+
+.suvs {
+  background: hsl(184, 100%, 22%);
+}
+
+.luxury {
+  background: hsl(179, 100%, 13%);
+}
+
+h1,
+p,
+a,
+img {
+  margin: 0px;
+  /* padding-left: 15px;
+  padding-right: 15px; */
+  padding: 0px 25px;
+}
+
+h1 {
+  font-family: "Big Shoulders Display", cursive;
+  text-transform: uppercase;
+}
+
+p {
+  font-size: 15px;
+  color: hsla(0, 0%, 100%, 0.75);
+}
+
+.botao {
+  background: hsl(0, 0%, 95%);
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 20px;
+  text-transform: capitalize;
+  place-self: start;
+}
+
+.botao-sedans {
+  color: hsl(31, 77%, 52%);
+}
+
+.botao-suvs {
+  color: hsl(184, 100%, 22%);
+}
+
+.botao-luxury {
+  color: hsl(179, 100%, 13%);
+}
