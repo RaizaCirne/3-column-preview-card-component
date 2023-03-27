@@ -14,11 +14,15 @@ body {
 
 .item {
   padding: 15px;
+  padding-bottom: 50px;
   display: grid;
   gap: 30px;
 }
+
 .sedans {
   background: hsl(31, 77%, 52%);
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
 }
 
 .suvs {
@@ -27,6 +31,8 @@ body {
 
 .luxury {
   background: hsl(179, 100%, 13%);
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
 }
 
 h1,
@@ -34,8 +40,6 @@ p,
 a,
 img {
   margin: 0px;
-  /* padding-left: 15px;
-  padding-right: 15px; */
   padding: 0px 25px;
 }
 
@@ -47,6 +51,11 @@ h1 {
 p {
   font-size: 15px;
   color: hsla(0, 0%, 100%, 0.75);
+  padding-bottom: 30px;
+}
+
+.caixa-botao {
+  padding-left: 20px;
 }
 
 .botao {
