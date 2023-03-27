@@ -78,3 +78,26 @@ p {
 .botao-luxury {
   color: hsl(179, 100%, 13%);
 }
+
+@media (max-width: 600px) {
+  body {
+    max-width: 375px;
+    display: grid;
+    grid-template-columns: 250px;
+    padding: 40px;
+  }
+  .sedans {
+    background: hsl(31, 77%, 52%);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+  }
+  .luxury {
+    background: hsl(179, 100%, 13%);
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+  }
+}
