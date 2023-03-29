@@ -62,7 +62,7 @@ Construir um componente do cartão de visualização de 3 colunas e deixá-lo o 
 
 <br />
 
-- Para acessar o site [Clique aqui](DIGITAR AQUI)
+- Para acessar o site [Clique aqui](https://eloquent-haupia-7e2cee.netlify.app/)
 
 <br />
 
@@ -107,9 +107,9 @@ Abrir pasta no editor de código.
 
 <br />
 
-- Personal Page - [Raíza Cirne Braz](colocaraqui)
+- Personal Page - [Raíza Cirne Braz](https://eloquent-haupia-7e2cee.netlify.app/)
 - Frontend Mentor - [@RaizaCirne](https://www.frontendmentor.io/profile/RaizaCirne)
 - GitHub - [RaizaCirne](https://github.com/RaizaCirne)
 - LinkedIn - [Raíza Cirne Braz](https://www.linkedin.com/in/ra%C3%ADzacirne/)
 
-**HTML - CSS** 🚀
+**HTML - CSS - MediaQueries** 🚀
