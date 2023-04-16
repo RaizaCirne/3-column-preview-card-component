@@ -10,6 +10,7 @@ body {
   grid-template-columns: 250px 250px 250px;
   place-content: center;
   min-height: 100vh;
+  margin: 0 auto;
 }
 
 .item {
